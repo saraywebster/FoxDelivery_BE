@@ -32,9 +32,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
